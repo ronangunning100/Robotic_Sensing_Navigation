@@ -1,1 +1,1 @@
-This is my READme.txt file, now an edit
+This is my READme.txt file
